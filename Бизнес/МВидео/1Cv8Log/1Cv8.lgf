@@ -113,4 +113,5 @@ f8f5694b-16bd-4aaa-935e-9ffc470ca7a8
 {5,8a317fac-aea2-41ac-955d-0fa64b75e9d5,"Документ.ЗаказПоставщику",43},
 {5,c0a5ea5f-b4ac-4d25-962a-f616a0bca6fa,"Документ.ПриходнаяНакладная",48},
 {4,"_$Session$_.ExternalDataProcessorConnectError",27},
-{4,"_$Session$_.ExternalDataProcessorConnect",28}
+{4,"_$Session$_.ExternalDataProcessorConnect",28},
+{5,fb800aeb-dce1-4903-8624-62c84cdfd66b,"Документ.ЗаказКлиента",49}
