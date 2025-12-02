@@ -18,4 +18,11 @@
 {4,"_$Access$_.Access",8},
 {4,"_$InfoBase$_.ExclusiveModeChange",9},
 {4,"_$PerformError$_",10},
-{3,"1CV8",5}
+{3,"1CV8",5},
+{4,"_$Job$_.Start",11},
+{4,"_$Job$_.Finish",12},
+{4,"_$Job$_.Cancel",13},
+{4,"_$Transaction$_.Begin",14},
+{4,"_$Data$_.Update",15},
+{5,adb24ee6-27c7-49dd-812b-95d62e2ab21d,"Справочник.Контрагенты",1},
+{4,"_$Transaction$_.Commit",16}
