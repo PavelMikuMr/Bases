@@ -25,4 +25,9 @@
 {4,"_$Transaction$_.Begin",14},
 {4,"_$Data$_.Update",15},
 {5,adb24ee6-27c7-49dd-812b-95d62e2ab21d,"Справочник.Контрагенты",1},
-{4,"_$Transaction$_.Commit",16}
+{4,"_$Transaction$_.Commit",16},
+{4,"_$Data$_.New",17},
+{5,b4c4ae34-0a81-4cfb-95e9-9743fc82050b,"Документ.ПродажаТовара",2},
+{5,a94f21d1-26d7-4f5d-b491-279512008463,"Документ.ЗакупкаТовара",3},
+{4,"_$Data$_.Post",18},
+{4,"_$Transaction$_.Rollback",19}
